@@ -1,19 +1,21 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Grayson Sparks
+ *UnityID: 200642912
+ *Date: 11/9/2025
+ *Assignment: Guided lab 4
+ *Description: Guided lab 4, 
  */
  
 p {
-    property: value;
+    font-family: Times;
+font-size: 16px;
+color: maroon;}
+
+.table-border {
+    border: 1px solid #decaff;
 }
 
-.class {
-    property: value;
-}
-
-#id {
-    property:value;
+#photo-resize {
+    max-width: 250px;
+    max-height: 300px;
 }
